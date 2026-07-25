@@ -32,11 +32,12 @@
 
 ## Featured Projects
 
+### 📱 Airline Scheduler
+A flight scheduling system built with React and for real-time planning and crew management.
+
 ### 🚀 CryptoPulse
 A cryptocurrency monitoring platform built with Go, PostgreSQL, Redis, and Docker.
 
 ### 📦 Warehouse
-An enterprise warehouse management backend with authentication, pagination, filtering, and reporting features.
+An enterprise warehouse management with authentication, pagination, filtering, and reporting features.
 
-### 📱 Airline Scheduler
-A flight scheduling system built with React and for real-time planning and crew management.
