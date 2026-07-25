@@ -9,7 +9,8 @@
 - 👯 I'm looking to collaborate on **Open-source projects and full-stack applications built with React, Next.js and Go.**
 
 
-- 📫 Reach me at: farzaneh.haddadi@gmail.com
+  # Reach me at: #
+- 📫 farzaneh.haddadi@gmail.com
 
 - 💼 LinkedIn: [farzaneh-hadadi](https://linkedin.com/in/farzaneh-hadadi)
 
