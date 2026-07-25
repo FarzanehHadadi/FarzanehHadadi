@@ -10,7 +10,7 @@
 
 
 ### Reach me at: ###
-- 📫 farzaneh.haddadi@gmail.com
+- 📫 Email: farzaneh.haddadi@gmail.com
 
 - 💼 LinkedIn: [farzaneh-hadadi](https://linkedin.com/in/farzaneh-hadadi)
 
