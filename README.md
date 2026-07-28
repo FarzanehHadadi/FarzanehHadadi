@@ -27,6 +27,10 @@
 <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=FarzanehHadadi&layout=compact&hide_progress=true" />
 </p>
 <p align="center">
+<img width="49%" src="./profile/stats.svg" />
+  <img width="49%" src="./profile/top-langs.svg" />
+</p>
+<p align="center">
 
 </p>
 
